@@ -39,9 +39,12 @@ header .row .logo {
 }
 header .logo a {
   font-family: Roboto;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 700;
   color: #545be8;
+}
+header .logo img {
+  width: 50px;
 }
 header .row ul {
   display: flex;
